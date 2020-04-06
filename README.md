@@ -14,6 +14,6 @@ Managing an Instagram account for a firm takes a lot of time and effort.  Replyi
 
 > Add the username and password values in the config.ini file that the Instagram account the bot will use. Username and password combinations can also be passed when creating instances of the InstaBot class in instagram_bot.py.
 
->Install the dependencies in requirements.txt, with pip install -r requirements.txt from the root directory of the project, preferably in a Python 3.7 virtual environment.
+>Install the dependencies in requirements.txt, with pip install -r Requirements.txt from the root directory of the project, preferably in a Python 3.7 virtual environment.
 
 >In the instagram_bot.py file, add the lines for the functionality desired at the bottom of the file.
